@@ -8,7 +8,8 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<img width="6250" height="4830" alt="pirouter_Logo (Copy)" src="https://github.com/user-attachments/assets/83e02e10-1a72-440d-a85a-d5c1e1a65267" />
+<img width="2000" height="1546" alt="pirouter_Logo (Copy)smallest" src="https://github.com/user-attachments/assets/3ac3611d-f9ad-47e8-8520-4dcfcdd92a28" />
+
 <br>
 <!--
 - 🔭 I’m currently working on ...
