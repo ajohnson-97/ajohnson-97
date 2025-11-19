@@ -8,8 +8,23 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+# Projects
+A summary of projects I made and/or am currently working on. <br> If you can't tell by now, I love the late 90's - early 2000's aesthetic and need to make a logo for every project/product I make.
+- 🔭 I’m currently in school for Network/Software Engineering
+- 🌱 I’m currently learning C++ and SQL databases
+- 💬 Ask me about my secret arduino project idea...
+- ⚡ Fun fact: I'm a die hard Linux fanboy <3
+- 📫 Reach me on linkedin: in/ajjohnson97
+<br><br>
+<h2>Pi-Router</h2>
+Custom-built dual 2.5Gb ethernet and WIFI 6e router/dns-sinkhole using Raspberry Pi SBCs and a custom ATMEGA328P-PU circuit for a toggle switch controlled password system to display system configuration details on the LCD screens and control two servo motors that lock/unlock the enclosure.<br><br>
 <img width="6250" height="4830" alt="pirouter_Logo (Copy)" src="https://github.com/user-attachments/assets/e5656446-52ca-49d3-aa39-679174ec42ab" />
-<br>
+<br><br>
+<h2>File-Renamer.py</h2>
+Batch-rename files in a directory with regex and apply filters by extension type (single, multiple or none). Option to generate a log file after program completion, displays and updates program operations in a text-box window. Built entirely with Python, uses the built-in tkinter library for the GUI (with optional console version).
+<br><br>
+<img width="1578" height="1062" alt="promo_logo" src="https://github.com/user-attachments/assets/66e54c63-352e-4c98-a1ab-7e27f6445f78" />
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
