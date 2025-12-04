@@ -11,9 +11,9 @@
 # Projects
 A summary of projects I made and/or am currently working on. <br> If you can't tell by now, I love the late 90's - early 2000's aesthetic and need to make a logo for every project/product I make.
 - 🔭 I’m currently in school for Network/Software Engineering
-- 🌱 I’m currently learning C++ and SQL databases
+- 🌱 I’m currently learning C++ and SQL
 - 💬 Ask me about my secret arduino project...
-- ⚡ Fun fact: I'm a die hard Linux fan/user
+- ⚡ Fun fact: I'm an obsessed Linux fan/user
 - 📫 Reach me on linkedin: in/ajjohnson97
 <br><br>
 <h2>Pi-Router</h2>
